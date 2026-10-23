@@ -5,7 +5,7 @@ Anthology** (House of Ashes, Little Hope, Man of Medan, The Devil in Me). It wor
 or next to [DarkPicturesDLSS](https://github.com/GreatDanish1026/DarkPicturesDLSS), on
 DirectX 11 or 12.
 
-Version **0.1.0**. Tested in The Devil in Me: every toggle works there except light
+Version **1.0.0**. Tested in The Devil in Me: every toggle works there except light
 shafts, which that game doesn't expose (the toggle shows as unavailable).
 
 ## Effects
